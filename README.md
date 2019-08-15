@@ -32,6 +32,12 @@ For details about the structure of UNET, please see the thesis in the image_segm
 
 ![](Images/classification.png)
 
+# Testing Results Example
+
+![](Images/test1.jpeg)
+
+![](Images/test2.jpeg)
+
 # Future Work
 
 1. The selection between image segmentation and color filter is worth further exploring. Validation performance indicates the same accuracy between the two methods. However, the threshold of color filter may vary according to the resolution and condition of the image. That’s why color filter is potentially unstable and image segmentation is preferred. 
