@@ -1,2 +1,10 @@
 # Deep-Learning-Pipeline-for-Oraquick
-Deep Learning Pipeline
+
+# Introduction
+
+![](Images/Introduction.png)
+
+
+# Panel Detection
+
+![](Images/detection.png)
